@@ -4,7 +4,7 @@
 <!DOCTYPE HTML>
 <html>
   <head>
-    <title>Sample Form</title>
+    <title>Sample Form Submission</title>
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
     <style>
     	body { background-color: #eee; font: helvetica; }
